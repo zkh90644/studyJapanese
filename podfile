@@ -1,0 +1,4 @@
+target 'StudyJapanese' do
+pod 'Masonry'
+end
+
